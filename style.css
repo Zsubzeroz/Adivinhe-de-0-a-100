@@ -1,0 +1,62 @@
+:root {
+    --color-RoxoEscuro: #2f015d;
+    --color-AzulMarinho: #000080;
+    --color-roxoclaro: #00000084;
+    --color-Branco: #FFFFFF;
+}
+
+body {
+    background-color: var(--color-RoxoEscuro);
+    color: var(--color-Branco);
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.content {
+    background-color: var(--color-roxoclaro);
+    color: var(--color-Branco);
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    max-width: 500px;
+    width: 100%;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+input[type="number"] {
+    padding: 8px;
+    border: 2px solid var(--color-AzulMarinho);
+    border-radius: 4px;
+    width: calc(100% - 20px);
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: var(--color-AzulMarinho);
+    color: var(--color-Branco);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: blue !important;
+}
+
+@media (max-width: 600px) {
+    .content {
+        padding: 10px;
+    }
+}
