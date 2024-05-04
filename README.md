@@ -4,10 +4,10 @@
 Um simples jogo de adivinhação de numero.🔮
 
 ## índice
-- <a href="#Funcionalidades">Funcionalidades do Projeto</a>
+- <a href="#funcionalidades-do-projeto">Funcionalidades do Projeto</a>
 - <a href="#Layout">Layout<a>
-- <a href="#Demonstração">Demonstração<a>
-- <a href="#Tecnologias">Tecnologias Utilizadas<a>
+- <a href="#demonstração">Demonstração<a>
+- <a href="#tecnologias-utilizadas">Tecnologias Utilizadas<a>
 
 ## Funcionalidades do Projeto
 - [x] Passar o tempo
@@ -15,7 +15,6 @@ Um simples jogo de adivinhação de numero.🔮
 
 ## Layout
 - CSS
-<!--"Imagens"-->
 
 ## Demonstração
 ![Link demonstração](/assens/adivinha.gif)
@@ -24,12 +23,5 @@ Um simples jogo de adivinhação de numero.🔮
 - Java Script
 - CSS
 - HTML
-
-<!--## Como rodar este o projeto?-->
-
-<!--## Autores
-<img> -->
 # Rede social
 - [Linkedin](https://www.linkedin.com/in/luan-estifer-rodrigues-pereira-7577a2285/)
-
-<!--## Proximos passos-->
