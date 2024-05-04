@@ -1,8 +1,8 @@
 # Projeto: Adivinhe de 0 a 100
-![Labeladivinha](/assets/Calculadora.png)
+![Labeladivinha](/assets/adivinha.png)
 Um simples jogo de adivinhação de numero.🔮
 
-## �ndice
+## índice
 - <a href="#Funcionalidades">Funcionalidades do Projeto</a>
 - <a href="#Layout">Layout<a>
 - <a href="#Demonstração">Demonstração<a>
@@ -17,7 +17,7 @@ Um simples jogo de adivinhação de numero.🔮
 <!--"Imagens"-->
 
 ## Demonstração
-![Link demonstra��o](/assets/Calculadora.gif)
+![Link demonstração](/assets/adivinha.gif)
 
 ## Tecnologias utilizadas
 - Java Script
