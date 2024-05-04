@@ -5,7 +5,7 @@ Um simples jogo de adivinhação de numero.🔮
 ## �ndice
 - <a href="#Funcionalidades">Funcionalidades do Projeto</a>
 - <a href="#Layout">Layout<a>
-- <a href="#Demonstração">Demonstra��o<a>
+- <a href="#Demonstração">Demonstração<a>
 - <a href="#Tecnologias">Tecnologias Utilizadas<a>
 
 ## Funcionalidades do Projeto
