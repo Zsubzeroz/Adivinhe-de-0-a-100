@@ -28,7 +28,7 @@ Um simples jogo de adivinhação de numero.🔮
 
 <!--## Autores
 <img> -->
-
+# Rede social
 - [Linkedin](https://www.linkedin.com/in/luan-estifer-rodrigues-pereira-7577a2285/)
 
 <!--## Proximos passos-->
